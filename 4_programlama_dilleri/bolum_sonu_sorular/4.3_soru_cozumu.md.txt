@@ -1,0 +1,17 @@
+Veri tiplerinde "duyarlılık" nedir? Açıklayınız.
+
+
+Bu terim, bir program içinde kullanılan veri türlerinin (örneğin, tam sayılar, kayan nokta sayıları, metin dizileri) 
+
+birbirleriyle nasıl etkileşimde bulunduğunu ve bu etkileşimlerin nasıl yönetileceğini ifade eder.
+
+Bir veri tipinin "duyarlılığı", o veri tipinin başka bir veri tipiyle ne kadar uyumlu olduğunu ve hangi tür dönüşümlerin 
+
+(Örneğin, bir veri tipini diğerine dönüştürme işlemleri) mümkün olduğunu belirtir.
+
+Örneğin, tam sayılarla yapılan bir işlem ile kayan nokta sayılarıyla yapılan bir işlem
+
+arasındaki duyarlılık, programın doğruluğunu ve beklenen sonuçları etkileyebilir.
+
+Yani kısacası, veri tiplerinin uyumluluğunun karşılaştırılması olarak nitelendirebiliriz. 
+
